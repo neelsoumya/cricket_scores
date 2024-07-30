@@ -1,5 +1,16 @@
 # cricket_scores
+
 cricket scores
+
+29th July 2024
+
+Computer Science vs. Archaeology
+
+0(3) batting
+3 overs 1 wicket (caught)
+
+3 - 0 - 14 - 1 
+
 
 23rd July 2024
 
