@@ -2,6 +2,14 @@
 
 cricket scores
 
+3rd August 2024
+
+3 wickets
+
+18 runs total
+
+15 not out highest score, 1 four!
+
 29th July 2024
 
 Computer Science vs. Archaeology
