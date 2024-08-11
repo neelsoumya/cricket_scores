@@ -2,6 +2,10 @@
 
 cricket scores
 
+10th August 2024
+
+4 runs in 3 innings
+
 3rd August 2024
 
 3 wickets
