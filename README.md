@@ -2,6 +2,16 @@
 
 cricket scores
 
+31st August 2024
+
+batting 4 runs jnot out 
+
+bowing 2 overs 18 runs
+
+12th August
+
+season ball 4 overs 22 runs
+
 10th August 2024
 
 4 runs in 3 innings
