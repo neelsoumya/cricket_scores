@@ -1,6 +1,24 @@
 # cricket_scores
 
-cricket scores
+cricket scores soumya banerjee
+
+21st September 2024
+
+Eddington
+
+4 runs
+
+1 wicket
+
+very good acurate bowling with streamlined runup
+
+13th September 2024 
+
+indoor cricket
+
+2 runs
+
+1 wicket
 
 31st August 2024
 
