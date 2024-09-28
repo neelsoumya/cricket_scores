@@ -2,6 +2,12 @@
 
 cricket scores soumya banerjee
 
+27th September 2024
+
+1 wicket (stumped) slower ball
+
+3 runs
+
 21st September 2024
 
 Eddington
