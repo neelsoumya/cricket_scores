@@ -2,6 +2,16 @@
 
 cricket scores soumya banerjee
 
+5th October 2024
+
+Eddington
+
+3 wickets (all bowled), one caught and bowled chance dropped
+
+2 runs
+
+1 catch as wicketkeeper
+
 27th September 2024
 
 1 wicket (stumped) slower ball
