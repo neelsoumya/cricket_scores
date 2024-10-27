@@ -2,6 +2,15 @@
 
 cricket scores soumya banerjee
 
+26th October 2024
+
+Eddington
+
+7 runs
+twice out
+one catch dropped
+good bowling
+
 5th October 2024
 
 Eddington
