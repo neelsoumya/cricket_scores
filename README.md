@@ -2,6 +2,14 @@
 
 cricket scores soumya banerjee
 
+16th November 2024
+
+6 runs
+
+good bowling (3 catches dropped off my bowling)
+
+bad fielding (1 catch dropped), one good stop on the outfield
+
 26th October 2024
 
 Eddington
