@@ -1,6 +1,12 @@
 # cricket_scores
 
-cricket scores soumya banerjee
+## Cricket scores soumya banerjee
+
+30th November 2024
+
+1 run scored
+3 overs bowled 3 good balls otherwise short
+good fielding good stops and good keeping
 
 16th November 2024
 
