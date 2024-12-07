@@ -2,6 +2,8 @@
 
 ## Cricket scores soumya banerjee
 
+
+
 30th November 2024
 
 2 runs scored
@@ -122,3 +124,37 @@ March 2024
 73 runs total
 
 12 wickets 
+
+## Summary for 2024
+
+# Cricket Performance Summary 2024
+
+## Performance Table
+
+| **Date**           | **Match Type/Location**       | **Runs Scored**         | **Wickets Taken** | **Overs Bowled**       | **Fielding**                                        | **Notes**                                  |
+|---------------------|-------------------------------|-------------------------|--------------------|------------------------|---------------------------------------------------|--------------------------------------------|
+| 30th November 2024 | -                             | 2                       | 0                  | 3 (3 good balls)       | Good fielding, stops, and keeping                 |                                             |
+| 16th November 2024 | -                             | 6                       | 0                  | Not specified          | 3 catches dropped off bowling, 1 catch dropped, 1 good stop |                                             |
+| 26th October 2024  | Eddington                     | 7 (twice out)           | 0                  | Not specified          | 1 catch dropped                                   | Good bowling                               |
+| 5th October 2024   | Eddington                     | 2                       | 3 (all bowled)     | Not specified          | 1 catch as wicketkeeper, 1 caught-and-bowled chance dropped |                                             |
+| 27th September 2024| -                             | 3                       | 1 (stumped)        | Not specified          |                                                 | Slower ball dismissal                      |
+| 21st September 2024| Eddington                     | 4                       | 1                  | Not specified          |                                                 | Very accurate bowling with streamlined run-up |
+| 13th September 2024| Indoor cricket                | 2                       | 1                  | Not specified          |                                                 |                                             |
+| 31st August 2024   | -                             | 4*                      | 0                  | 2 (18 runs conceded)   |                                                 |                                             |
+| 12th August 2024   | -                             | 0                       | 0                  | 4 (22 runs conceded)   |                                                 | Season ball                                |
+| 10th August 2024   | -                             | 4 (in 3 innings)        | 0                  | Not specified          |                                                 |                                             |
+| 3rd August 2024    | -                             | 15* (highest score: 1 four)| 3                  | Not specified          |                                                 |                                             |
+| 29th July 2024     | Computer Science vs Archaeology| 0(3)                    | 1                  | 3 (14 runs, 1 wicket)  |                                                 |                                             |
+| 23rd July 2024     | -                             | 0(1)                    | 0                  | Not specified          |                                                 | Caught off spinner                         |
+| 18th July 2024     | -                             | 1(3)                    | 0                  | 1 (12 runs conceded)   |                                                 |                                             |
+| 13th July 2024     | -                             | 8*                      | 4                  | Not specified          | 1 catch                                          |                                             |
+| March 2024         | -                             | 18*                     | 0                  | Not specified          |                                                 |                                             |
+
+## Summary Statistics
+
+- **Total Runs Scored:** 76
+- **Total Wickets Taken:** 12
+- **Highest Batting Score:** 15* (3rd August 2024)
+- **Best Bowling Performance:** 4 wickets in a match (13th July 2024)
+- **Notable Fielding Contributions:** Multiple good stops and catches, including as wicketkeeper.
+
