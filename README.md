@@ -4,7 +4,7 @@
 
 30th November 2024
 
-1 run scored
+2 runs scored
 3 overs bowled 3 good balls otherwise short
 good fielding good stops and good keeping
 
