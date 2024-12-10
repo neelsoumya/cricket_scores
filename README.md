@@ -2,7 +2,12 @@
 
 ## Cricket scores soumya banerjee
 
+9th December 2024
+indoor cricket
 
+1 run scored
+1 catch
+good bowling
 
 30th November 2024
 
