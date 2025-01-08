@@ -163,7 +163,7 @@ March 2024
 
 ## Summary Statistics
 
-- **Total Runs Scored:** 76
+- **Total Runs Scored:** 77
 - **Total Wickets Taken:** 12
 - **Highest Batting Score:** 15* (3rd August 2024)
 - **Best Bowling Performance:** 4 wickets in a match (13th July 2024)
