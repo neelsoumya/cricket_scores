@@ -2,6 +2,12 @@
 
 ## Cricket scores soumya banerjee
 
+7th January 2025
+
+indoor nets
+0 runs unbeaten against good bowlers good defensive shots and shots on the off-side
+0 wickets 3 times batsman was beaten
+
 9th December 2024
 indoor cricket
 
