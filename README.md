@@ -2,6 +2,13 @@
 
 ## Cricket scores soumya banerjee
 
+10th January 2025
+
+Indoor cricket.
+
+4 wickets (first for wicket haul). Accurate bowling on stumps a bit slow medium pace.
+4 runs.
+
 7th January 2025
 
 indoor nets
