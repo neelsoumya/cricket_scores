@@ -2,6 +2,12 @@
 
 ## Cricket scores soumya banerjee
 
+17th January 2025
+
+2 runs
+1 direct hit run out
+2 catches dropped
+
 10th January 2025
 
 Indoor cricket.
