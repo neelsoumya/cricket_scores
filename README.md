@@ -2,6 +2,23 @@
 
 ## Cricket scores soumya banerjee
 
+24th January 2025
+
+indoor cricket
+
+13 runs (1 four, 1 six)
+2 wickets (one caught behind, good batsman. another bowled)
+1 catch dropped
+
+23rd January 2025
+
+indoor net practice
+
+1 run scored
+Stumped off the bowling of Joyeeta
+1 wicket (stumped off a slower delivery, good batsman)
+
+
 17th January 2025
 
 2 runs
