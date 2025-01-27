@@ -2,6 +2,14 @@
 
 ## Cricket scores soumya banerjee
 
+25th January 2025
+
+Outdoor cricket Eddington
+
+7 runs 
+1 good running high catch
+good accurate fast bowling (almost took 1 wicket, catch dropped by wicketkeeper)
+
 24th January 2025
 
 indoor cricket
