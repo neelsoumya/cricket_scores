@@ -2,6 +2,15 @@
 
 ## Cricket scores soumya banerjee
 
+31st January 2025
+
+Indoor cricket
+
+1 wicket (bowled)
+12 runs (1 six, 1 four)
+1 catch
+1 catch dropped
+
 25th January 2025
 
 Outdoor cricket Eddington
