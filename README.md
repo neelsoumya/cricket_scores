@@ -2,6 +2,18 @@
 
 ## Cricket scores soumya banerjee
 
+1st February 2025
+
+Eddington
+
+1 wicket
+
+3 runs
+
+1 catch
+
+1 catch dropped as wicketkeeper
+
 31st January 2025
 
 Indoor cricket
