@@ -2,6 +2,16 @@
 
 ## Cricket scores soumya banerjee
 
+7th February 2025
+
+indoor cricket
+
+15 runs (1 six) once out bowled
+
+2 catches
+
+1 run out (direct hit)
+
 1st February 2025
 
 Eddington
