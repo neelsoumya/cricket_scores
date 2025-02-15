@@ -2,6 +2,18 @@
 
 ## Cricket scores soumya banerjee
 
+14th February 2025
+
+indoor cricket
+
+17 runs (1 six)
+
+2 wickets
+
+1 near run out
+
+Joyeeta 20 runs (multiple fours)
+
 7th February 2025
 
 indoor cricket
