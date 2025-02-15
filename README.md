@@ -2,6 +2,12 @@
 
 ## Cricket scores soumya banerjee
 
+15th February 2025
+
+7 runs
+
+1 wicket
+
 14th February 2025
 
 indoor cricket
