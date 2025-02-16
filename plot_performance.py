@@ -1,6 +1,6 @@
 # Here is a Python script that reads the `cricket_scores.csv` file and plots the number of runs scored over time using matplotlib:
 
-```python
+#```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
