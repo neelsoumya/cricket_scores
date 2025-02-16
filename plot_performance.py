@@ -3,10 +3,12 @@
 #```python
 import pandas as pd
 import matplotlib.pyplot as plt
+import pdb
 
 # Read the CSV file
 csv_file = 'cricket_scores.csv'
-data = pd.read_csv(csv_file)
+data = pd.read_csv(csv_file, on_bad_lines='skip')
+#pdb.set_trace()
 
 # Convert the 'Date' column to datetime format
 data['Date'] = pd.to_datetime(data['Date'], format='%dth %B %Y', errors='coerce')
@@ -31,8 +33,23 @@ plt.tight_layout()
 plt.savefig('runs_scored_over_time.png')
 
 # Display the plot
-plt.show()
-```
+#plt.show()
+
+
+# Plot wickets taken over time
+plt.figure(figsize=(10,6))
+plt.plot(data['Date'], data['Wickets'], marker='o', linestyle='-', color='g')
+plt.title('Number of wickets taken')
+plt.xlabel('Date')
+plt.ylabel('Wickets taken')
+plt.grid(True)
+plt.xticks(rotation=45)
+plt.tight_layout()
+
+# save plot
+plt.savefig('wickets_over_time.png')
+
+#```
 
 #This script does the following:
 #1. Reads the `cricket_scores.csv` file into a pandas DataFrame.

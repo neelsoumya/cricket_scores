@@ -1,5 +1,21 @@
 # cricket_scores
 
+## Some cricket scores and tools
+
+Install using
+
+```R
+pip install -r requirements.txt
+```
+
+Generate plots using 
+
+```R
+python plot_performance.py
+```
+
+All notes in plaintext in README (notes start below)
+
 ## Cricket scores soumya banerjee
 
 15th February 2025
