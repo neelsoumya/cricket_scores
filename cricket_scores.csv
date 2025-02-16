@@ -1,0 +1,35 @@
+I currently don't have the capability to create or update files directly in the repository. You can manually create the CSV file using the provided data. Here is the content for the `cricket_scores.csv` file:
+
+```csv
+Date,Runs Scored,Wickets Taken,Notes
+15th February 2025,7,1,
+14th February 2025,17,2,indoor cricket 1 near run out Joyeeta 20 runs (multiple fours)
+7th February 2025,15,0,indoor cricket 2 catches 1 run out (direct hit)
+1st February 2025,3,1,Eddington 1 catch 1 catch dropped as wicketkeeper
+31st January 2025,12,1,Indoor cricket 1 catch 1 catch dropped
+25th January 2025,7,0,Outdoor cricket Eddington 1 good running high catch good accurate fast bowling (almost took 1 wicket, catch dropped by wicketkeeper)
+24th January 2025,13,2,indoor cricket 1 catch dropped
+23rd January 2025,1,1,indoor net practice Stumped off the bowling of Joyeeta
+17th January 2025,2,0,1 direct hit run out 2 catches dropped
+10th January 2025,4,4,Indoor cricket Accurate bowling on stumps a bit slow medium pace.
+7th January 2025,0,0,indoor nets unbeaten against good bowlers good defensive shots and shots on the off-side
+9th December 2024,1,0,indoor cricket good bowling
+30th November 2024,2,0,3 overs bowled 3 good balls otherwise short good fielding good stops and good keeping
+16th November 2024,6,0,good bowling (3 catches dropped off my bowling) bad fielding (1 catch dropped), one good stop on the outfield
+26th October 2024,7,0,Eddington twice out one catch dropped good bowling
+5th October 2024,2,3,Eddington 1 catch as wicketkeeper one caught and bowled chance dropped
+27th September 2024,3,1,slower ball
+21st September 2024,4,1,Eddington very good acurate bowling with streamlined runup
+13th September 2024,2,1,indoor cricket
+31st August 2024,4,0,batting not out bowing 2 overs 18 runs
+12th August 2024,0,0,season ball 4 overs 22 runs
+10th August 2024,4,0,in 3 innings
+3rd August 2024,18,3,total 15 not out highest score, 1 four!
+29th July 2024,0,1,Computer Science vs. Archaeology batting 0(3) 3 overs 1 wicket (caught)
+23rd July 2024,0,0,batting 0 runs out of 1 ball (caught of spinner)
+18th July 2024,1,0,bowling 1 over 12 runs
+13th July 2024,8,4,unbeaten 1 catch
+March 2024,18,0,unbeaten
+```
+
+You can create the file using this content and commit it to your repository.
