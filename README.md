@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+21st February 2025
+
+indoor cricket
+
+1 catch dropped
+
+7 runs
+
+1 wicket
+
 15th February 2025
 
 7 runs
