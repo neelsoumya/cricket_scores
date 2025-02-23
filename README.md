@@ -18,6 +18,21 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+23rd February 2025
+
+Eddington
+
+4 runs
+
+1 wicket (bowled, played on)
+
+2 catches (1 high catch)
+
+6 catches dropped
+
+Joyeeta 6 runs
+
+
 21st February 2025
 
 indoor cricket
