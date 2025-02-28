@@ -18,6 +18,12 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+28th February 2025
+
+3 wickets hat-trick! 
+
+8 runs
+
 23rd February 2025
 
 Eddington
