@@ -18,6 +18,24 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+8th March 2025
+
+Eddington
+
+4 wickets (two great catches taken by Joyeeta!)
+
+1 good running catch
+
+2 runs
+
+7th March 2025
+
+indoor cricket
+
+3 runs
+
+1 catch
+
 28th February 2025
 
 3 wickets hat-trick! 
