@@ -18,6 +18,29 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+15th March 2025
+
+Eddington cricket
+
+7 runs
+
+2 wickets
+
+2 catches 
+
+
+14th March 2025
+
+Indoor cricket
+
+10 runs
+
+1 catch
+
+1 stumping
+
+1 wicket
+
 8th March 2025
 
 Eddington
