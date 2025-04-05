@@ -22,7 +22,7 @@ All notes in plaintext in README (notes start below)
 
 Indoor cricket
 
-5 runs
+8 runs
 1 wicket (caught and bowled)
 
 15th March 2025
