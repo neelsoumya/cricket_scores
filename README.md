@@ -18,6 +18,15 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+11th April 2025
+
+Indoor cricket
+
+5 runs
+1 wicket
+1 catch
+2 misfieldings
+
 5th April 2025
 
 Eddington
