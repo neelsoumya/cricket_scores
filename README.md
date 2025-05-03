@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+3rd May 2025
+
+Eddington
+
+30 runs unbeaten (elegant shots)
+
+2 wickets (1 caught and bowled)
+
 12th April 2025
 
 Eddington 
