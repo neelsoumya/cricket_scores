@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+14th June 2025
+
+trumpington
+
+1 wicket Baba
+
+2 runs
+
 3rd May 2025
 
 Eddington
