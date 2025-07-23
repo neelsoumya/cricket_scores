@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+23rd July 2025
+
+Churchill college ground
+
+2 over 16 runs 0 wickets
+
+https://uccavendishlab.play-cricket.com/website/results/7147036
+
 14th June 2025
 
 trumpington
