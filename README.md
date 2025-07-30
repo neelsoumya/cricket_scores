@@ -18,6 +18,12 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+29th July 2025
+
+Churchill ollege ground
+
+2 overs 25 runs 0 wickets (lots of full tosses)
+
 23rd July 2025
 
 Churchill college ground
