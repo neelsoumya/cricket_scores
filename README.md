@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+2nd August 2025
+
+Eddington
+
+2 wickets (one bowled)
+7 runs
+1 catch
+
 29th July 2025
 
 Churchill ollege ground
