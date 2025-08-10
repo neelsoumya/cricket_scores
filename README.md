@@ -18,6 +18,19 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+9th August 2025
+
+Eddington
+
+12 runs (match winning knock, 7 runs needed in last over, 2 runs needed in 1 ball, won with a ball to spare)
+
+3 wickets (one bowled middle stump flying)
+
+1 catch
+
+Joyeeta 2 fours 1 great catch!
+
+
 2nd August 2025
 
 Eddington
