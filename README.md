@@ -18,6 +18,12 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+16th August 2025
+
+1 run
+
+3 overs bowling 1 over very good and accurate (1 run off over)
+
 9th August 2025
 
 Eddington
