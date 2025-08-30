@@ -18,6 +18,12 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+30th August 2025
+
+1 wicket 5 runs
+
+Joyeeta 20 runs 1 great pull shot for four
+
 23rd August 2025
 
 4 wickets (1 grat catch taken by Joyeeta)
