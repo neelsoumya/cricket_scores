@@ -22,7 +22,7 @@ All notes in plaintext in README (notes start below)
 
 2 wickets
 
-14 runs
+14 runs (one beautiful flick for 4 runs)
 
 Joyeeta > 40 runs
 
