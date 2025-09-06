@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+6th september 2025
+
+2 wickets
+
+14 runs
+
+Joyeeta > 40 runs
+
 30th August 2025
 
 1 wicket 5 runs
