@@ -18,6 +18,15 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+26th September 2025
+
+indoor cricket
+
+5 wickets (1 hat trick!) 
+this includes 2 wickets of a very good batsman (V.) bowled
+
+9 runs
+
 6th september 2025
 
 2 wickets
