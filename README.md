@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+21st November 2025
+
+indoor cricket
+
+12 runs (1 six)
+
+2 wickets 
+
+1 run out helped
+
 26th September 2025
 
 indoor cricket
