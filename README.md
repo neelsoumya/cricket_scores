@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+28th November 2025
+
+indoor cricket
+
+4 runs
+
+1 wicket
+
 21st November 2025
 
 indoor cricket
