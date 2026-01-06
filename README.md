@@ -18,6 +18,12 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+3rd January 2026
+
+Eddington
+
+6 runs
+
 20th December 2025
 
 Eddington
