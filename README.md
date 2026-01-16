@@ -24,9 +24,9 @@ indoor cricket
 
 5 runs
 
-1 wicket
+2 wickets
 
-1 run out
+1 run out (direct hit)
 
 3rd January 2026
 
