@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+16th January 2026
+
+indoor cricket
+
+5 runs
+
+1 wicket
+
+1 run out
+
 3rd January 2026
 
 Eddington
