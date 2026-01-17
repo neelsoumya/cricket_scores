@@ -18,6 +18,18 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+17th January 2026
+
+Eddington
+
+10 runs (1 four and a match saving knock)
+
+1 wicket
+
+1 catch
+
+1 dropped catch (difficult)
+
 16th January 2026
 
 indoor cricket
