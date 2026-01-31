@@ -26,6 +26,14 @@ All notes in plaintext in README (notes start below)
 
 1 catch
 
+24th January 2026
+
+Eddington
+
+0 runs
+
+0 wickets
+
 17th January 2026
 
 Eddington
