@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+31st January 2026
+
+6 wickets (on a hat trick)
+
+12 runs
+
+1 catch
+
 17th January 2026
 
 Eddington
