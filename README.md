@@ -30,9 +30,9 @@ All notes in plaintext in README (notes start below)
 
 Eddington
 
-0 runs
+did not bat
 
-0 wickets
+1 wicket
 
 17th January 2026
 
