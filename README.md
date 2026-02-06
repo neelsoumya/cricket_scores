@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+6th Feb 2026
+
+indoor cricket
+
+2 runs
+
+1 wicket
+
+2 catches
+
 31st January 2026
 
 6 wickets (on a hat trick)
