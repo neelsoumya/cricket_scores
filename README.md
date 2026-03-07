@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+7th March 2026
+
+Eddington last match
+
+3 runs
+
+2 wickets
+
 14th Feb 2026
 
 Eddington
