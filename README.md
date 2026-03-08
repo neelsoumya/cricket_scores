@@ -22,6 +22,8 @@ All notes in plaintext in README (notes start below)
 
 Eddington last match
 
+[Video of batting](https://www.youtube.com/watch?v=AaJM_SbmAKY)
+
 3 runs
 
 2 wickets
