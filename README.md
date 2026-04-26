@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+26th April 2026
+
+Cricket 🦗 🏏 ground
+
+Joyeeta 
+
+20 runs (4 fours)
+
+2 catches (one great catch)
+
 7th March 2026
 
 Eddington last match
