@@ -28,6 +28,8 @@ Joyeeta
 
 2 catches (one great catch)
 
+best player
+
 7th March 2026
 
 Eddington last match
