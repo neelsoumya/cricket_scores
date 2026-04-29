@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+28th April 2026
+
+M. cc nets
+
+3 wickets (all bowled)
+
+1 run
+
 26th April 2026
 
 Cricket 🦗 🏏 ground
