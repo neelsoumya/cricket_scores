@@ -18,6 +18,15 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+2nd May 2026
+
+M. cc match full
+
+2 good saves while fielding
+1 catch dropped
+
+0 unbeated (29 balls) against very good bowling
+
 28th April 2026
 
 M. cc nets
