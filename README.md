@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+13th May 2026
+
+M. cc training nets
+
+Good bowling
+
+Batting once caught behind
+
+Good batting against excellent fast bowling one good flick against K. D.
+
 2nd May 2026
 
 M. cc match full
