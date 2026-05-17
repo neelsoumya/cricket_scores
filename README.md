@@ -18,6 +18,26 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+17 May 2026
+
+M.CC 
+
+Joyeeta Ghose 
+runs - 26
+1 catch
+1 maiden over, 3 runs in 2 overs.
+
+10th May 2026
+
+M. CC 
+
+Joyeeta Ghose
+
+7 runs
+
+1 wicket (caught and bowled)
+
+
 13th May 2026
 
 M. cc training nets
