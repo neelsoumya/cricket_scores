@@ -18,6 +18,17 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+26th May 2026
+
+M. CC match
+
+Batting 5 runs unbeaten
+
+Bowling 2 overs 6 runs one catch dropped by keeper
+
+Fielding one misfield 4 runs should have been 1
+
+
 22nd May 2026
 
 department 🥅 football match
