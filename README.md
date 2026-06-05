@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+4th June 2026
+
+university chemistry cricket team
+
+batting 2 runs off 36 balls (run out). held down the fort after early losses
+
+bowling good but good batsman almost bowled one 2 overs 19 runs
+
+fielding good
+
 26th May 2026
 
 M. CC match
