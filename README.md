@@ -18,6 +18,16 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+7th June 2026
+
+Joyeeta 24 runs 5 fours 1 wicket 2 catches 
+
+6th June 2026
+
+F. Cricket club
+
+0 runs 6 balls
+
 4th June 2026
 
 university chemistry cricket team
