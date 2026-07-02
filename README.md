@@ -18,6 +18,41 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+2nd July 2026
+
+York university cricket
+
+2 runs (36 balls)
+
+1 wicket (caught)
+
+bowling mixed spin + gentle pace
+
+1st July 2026
+
+SCCC nets
+
+4 wickets
+
+faced really fast pace did not get out batting
+
+
+30th June 2026
+
+University football 🥅 
+
+saved 2 goals defender 
+
+conceded 2 goals defender
+
+23rd June 2026
+
+MCC Joyeeta
+
+12 runs
+
+1 wicket
+
 7th June 2026
 
 Joyeeta 24 runs 5 fours 1 wicket 2 catches 
