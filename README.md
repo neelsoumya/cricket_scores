@@ -18,6 +18,12 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+9th July 2026
+Uni cricket
+good fielding
+bowling 2 overs 16 runs (mixed spin + pace)
+
+
 2nd July 2026
 
 York university cricket
