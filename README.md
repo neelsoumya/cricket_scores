@@ -18,6 +18,18 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+
+14th July 2026
+Uni cricket
+good fielding
+
+2 runs of 1 ball (came into 🦇 bat in with one ball remaining)
+
+2 wickets (one bowled and one caught, 3 catches dropped)
+
+Joyeeta 1 run (then run out)
+batted well
+
 9th July 2026
 Uni cricket
 good fielding
