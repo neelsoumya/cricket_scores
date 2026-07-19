@@ -18,6 +18,11 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+18th July 2026
+M. CC against Super Kings
+0 runs 30 balls out
+bolwing 2 overs 7 runs
+spin + slow flighted pace
 
 14th July 2026
 Uni cricket
