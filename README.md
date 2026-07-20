@@ -22,7 +22,7 @@ All notes in plaintext in README (notes start below)
 
 University
 
-4 wickets 20 runs
+4 overs 20 runs 1 wicket (caught behind, the guy did not walk)
 0 out of 5 balls (lbw)
 
 18th July 2026
