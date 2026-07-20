@@ -18,6 +18,17 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+20th July 2026
+
+University
+
+4 wickets 20 runs
+0 out of 5 balls (lbw)
+
+18th July 2026
+
+Joyeeta 1 wicket and 5 runs
+
 18th July 2026
 M. CC against Super Kings
 0 runs 30 balls out
