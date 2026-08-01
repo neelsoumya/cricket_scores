@@ -18,6 +18,12 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+1st August 2026
+
+M. CC vs B. CC 
+0(1) LBW
+one catch dropped
+
 20th July 2026
 
 University
