@@ -18,6 +18,14 @@ All notes in plaintext in README (notes start below)
 
 ## Cricket scores soumya banerjee
 
+5th August 2026
+
+1 wicket (caught) 2 overs 16 runs a few balls beaten
+
+batting 3 runs of 6 balls
+
+good fielding in fine leg
+
 1st August 2026
 
 M. CC vs B. CC 
